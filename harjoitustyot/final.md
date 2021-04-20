@@ -1,4 +1,4 @@
-# Harjoitustyö
+# Harjoitustyö: Koronavirus twiittien luokittelu hyödyntäen luonnollisen kielen analyysia ja Keras neuroverkkoa
 ### *Ilpo Viertola, Johdanto datatieteeseen 2021, tavoiteltu pistemäärä: 2-3*
 
 ## Osa 1
